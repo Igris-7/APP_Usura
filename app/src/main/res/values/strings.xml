@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">T3</string>
+    <string name="lblCarga">Cargando sistema</string>
+    <string name="lblInformacion">Información personal</string>
+    <string name="txtMinNombre">Nombres y apellidos</string>
+    <string name="txtMinDni">Ingrese DNI</string>
+    <string name="txtMinCorreo">Ingrese correo electrónico</string>
+    <string name="txtMinCelular">Ingrese número de celular</string>
+    <string name="btnMinSalir">Salir</string>
+    <string name="btnMinIngresar">Ingresar</string>
+    <string name="copia">Derechos reservados - 2020</string>
+    <string name="Bienvenido">Bienvenido a Usura</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="lblTitulo">Mostrar información</string>
+    <string name="CalcularIS">Calcular interés simple</string>
+    <string name="CalcularIC">Calcular interés compuesto</string>
+    <string name="hintIS">Aquí se mostrará el interés simple</string>
+    <string name="hintIC">Aquí se mostrará el interés compuesto</string>
+
+</resources>
